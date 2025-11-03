@@ -18,12 +18,24 @@ header {
 
 }
 
-.the-booleaner {
+h1 {
+    margin-bottom: 0;
+}
+
+.p-grigio {
+    color:grey;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.p-grigio > .the-booleaner {
     color: rgb(0, 163, 217);
 }
 
 .data {
     font-size: 12px;
+    color:grey;
+    margin-top: 0;
 }
 
 .evidenziato {
