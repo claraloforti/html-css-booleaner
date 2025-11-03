@@ -1,12 +1,21 @@
 header {
     background-image: url('../imgs/pattern.png');
     background-color: rgb(0, 136, 255);
-    height: 150px;
+    background-size: 400px;
+    height: 100px;
     
 }
 
 .logo {
-    width: 250px;
-    height: 200px;
+    width: 180px;
+    height: 150px;
 
+}
+
+.the-booleaner {
+    color: rgb(0, 163, 217);
+}
+
+.data {
+    font-size: 12px;
 }
