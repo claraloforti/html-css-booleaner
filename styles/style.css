@@ -41,6 +41,7 @@ h1 {
 table {
     margin: 0 auto;
     padding: 0px;
+    border-collapse: collapse;
 }
 
 thead {
@@ -52,10 +53,37 @@ tbody {
     background-color: rgb(155, 216, 238);
 }
 
+tr {
+    text-align: left;
+}
+
+.cinquanta-per-cento {
+ width: 50%;
+}
+
 .no-sfondo {
     background-color: white;
 }
 
 .p-footer {
     color: grey;
+}
+
+.footer-img-1 {
+    color:white;
+    background-image: url('../imgs/monitor.jpg');
+    background-size: cover;
+    height: 150px;
+    width: 200px;
+    padding: 10px;
+    
+}
+
+.footer-img-2 {
+    color: white;
+    background-image: url('../imgs/graph.jpg');
+    background-size: cover;
+    height: 150px;
+    width: 200px;
+    padding: 10px;
 }
