@@ -8,7 +8,7 @@ header {
     background-color: rgb(0, 136, 255);
     background-size: 400px;
     height: 100px;
-    
+
 }
 
 .logo {
@@ -23,18 +23,18 @@ h1 {
 }
 
 .p-grigio {
-    color:grey;
+    color: grey;
     margin-top: 0;
     margin-bottom: 0;
 }
 
-.p-grigio > .the-booleaner {
+.p-grigio>.the-booleaner {
     color: rgb(0, 163, 217);
 }
 
 .data {
     font-size: 12px;
-    color:grey;
+    color: grey;
     margin-top: 0;
 }
 
@@ -58,7 +58,7 @@ tr {
 }
 
 .cinquanta-per-cento {
- width: 50%;
+    width: 50%;
 }
 
 .no-sfondo {
@@ -70,13 +70,13 @@ tr {
 }
 
 .footer-img-1 {
-    color:white;
+    color: white;
     background-image: url('../imgs/monitor.jpg');
     background-size: cover;
     height: 150px;
     width: 200px;
     padding: 10px;
-    
+
 }
 
 .footer-img-2 {
