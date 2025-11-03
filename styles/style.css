@@ -23,3 +23,19 @@ header {
 .evidenziato {
     background-color: yellow;
 }
+
+
+
+thead {
+    color: white;
+    background-color: rgb(0, 163, 217);
+}
+
+tbody {
+    background-color: rgb(155, 216, 238);
+}
+
+.no-sfondo {
+    background-color: white;
+}
+
