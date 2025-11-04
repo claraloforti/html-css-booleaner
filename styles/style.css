@@ -13,7 +13,8 @@ header {
 .logo {
     width: 180px;
     margin-left: 5px;
-    padding: 20px;
+    padding-top: 40px;
+    padding-bottom: 5px;
 }
 
 h1 {
@@ -26,7 +27,7 @@ h1 {
     margin-bottom: 0;
 }
 
-.p-grigio>.the-booleaner {
+.p-grigio > .the-booleaner {
     color: rgb(0, 163, 217);
 }
 
