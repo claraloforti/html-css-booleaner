@@ -7,15 +7,13 @@ header {
     background-image: url('../imgs/pattern.png');
     background-color: rgb(28, 144, 245);
     background-size: 400px;
-    height: 100px;
 
 }
 
 .logo {
-    height: 140px;
-    width: 15%;
+    width: 180px;
     margin-left: 5px;
-
+    padding: 20px;
 }
 
 h1 {
@@ -57,7 +55,7 @@ tr {
     text-align: left;
 }
 
-.cinquanta-per-cento {
+#cinquanta-per-cento {
     width: 50%;
 }
 
